@@ -16,5 +16,5 @@ fn solution(a: Vec<Vec<i32>>) -> Vec<Vec<i32>> {
 }
 
 fn main() {
-    solution(vec![vec![3, 3, 4, 2]])
+    solution(vec![vec![3, 3, 4, 2]]);
 }
